@@ -55,3 +55,8 @@ dkms.conf
 History/
 
 tarballs/
+*.zip
+*.tgz*
+*.gz*
+*.bz2*
+
